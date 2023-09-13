@@ -1,3 +1,3 @@
-# University of Idaho Coeur d'Alene Computer Science
+# CS for Industrial Automation and Precision Agriculture
 
-This organization hosts student projects for U of I computer science students. Listed below in this README are links to the documentation for highlighted projects. 
+Listed below in this README are links to the documentation for highlighted projects featuring student work in the domains of industrial automation and precision agriculture. Projects found in this repository are likely to have something to do with ROS, Fanuc robot drivers, PLC control, and various senior design projects. Buried somewhere in the annuls of this organization there is rumored to be the original blueprint for John's ideal laser-wielding robotic toaster.
